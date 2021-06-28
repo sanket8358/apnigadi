@@ -86,8 +86,8 @@ p {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
-	min-height: 680px;
-	height: 680px;
+	min-height: 600px;
+	height: 600px;
 }
 
 .left-banner-content h6 {
@@ -119,8 +119,8 @@ p {
 	padding: 100px 45px;
 	background-color: #f4bc51;
 	text-align: center;		
-	min-height: 680px;
-	height: 680px;
+	min-height: 600px;
+	height: 600px;
 }
 
 .right-banner-content h2 {
